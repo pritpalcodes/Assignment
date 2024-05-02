@@ -1,6 +1,7 @@
-# Coding Assessment L-2 Code Submission by Aryan Gupta
+# Coding Assessment L-2 Code Submission by Pritpal Singh
 
-This project is hosted here: https://aryangupta-project-marmeto.netlify.app/
+
+This project is hosted here: 
 
 ## Getting Started
 
